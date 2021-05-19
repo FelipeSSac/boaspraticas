@@ -11,7 +11,7 @@ let Error404 = {
 }
 let error = `
 <div>
-    erro 404!
+    <p>Ooooops, pagina não encontrada</p>
 </div>
 `
 

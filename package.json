@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "sass --watch src/assets/sass/style.scss:src/css/style.css & webpack serve --open --config webpack.dev.js",
+    "server": "webpack --config webpack.prod.js",
+    "start": "webpack serve --open --config webpack.dev.js",
+    "scss": "node-sass --watch src/assets/sass -o src/css",
     "build": "node-sass src/assets/sass/style.scss > src/css/style.css && webpack --config webpack.prod.js"
   },
   "keywords": [],
-  "author": "Douglas Morais",
+  "author": "Felipe Souza",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",

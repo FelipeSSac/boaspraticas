@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  scroll-behavior: smooth; }
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Roboto", sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: "Roboto", sans-serif; }
+
+.container {
+  width: 75%;
+  margin: 0 auto; }
+
+.block-section {
+  display: block; }
+
+.main-left {
+  position: fixed;
+  left: 10px;
+  bottom: 10px; }
+
+.footer-contain {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px; }

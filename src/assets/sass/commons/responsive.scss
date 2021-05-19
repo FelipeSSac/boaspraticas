@@ -1,0 +1,24 @@
+@media ( max-width: 800px ){
+  .section-background--two {
+    height: 1800px;
+    
+    .block-section--two {
+      display: grid;
+      height: 90%;
+
+      & p{
+        text-align: center;
+        margin-left: 0;
+        margin-top: calc(10px - 100px);
+      }
+
+      & img{
+        margin: 0 auto;
+        width: 60%;
+      }
+    }
+  }
+  .footer-contain{
+    margin-top: calc(10px - 210px);
+  }
+}
