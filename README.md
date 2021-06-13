@@ -1,4 +1,4 @@
-Simple landingpage using CSSS and Node.js to train clean code, deployed on Vercel.
+Simple landingpage using SCSS and Node.js to train clean code, deployed on Vercel.
 
 To clone the project:
 `git clone https://github.com/mrdouglasmorais/template-node-fulljs`
