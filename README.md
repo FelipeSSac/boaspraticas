@@ -1,12 +1,14 @@
-Para iniciar o projeto:
+Simple landingpage using CSSS and Node.js to train clean code, deployed on Vercel.
+
+To clone the project:
 `git clone https://github.com/mrdouglasmorais/template-node-fulljs`
 
-Para instalar as dependências:
+To install the dependences:
 `npm i`
 
-Para iniciar em modo de desenvolvimento:
+To start dev mode:
 `npm start`
 
-Para instalar o node [clique aqui](https://nodejs.org/en/)
+To install Node.js [clique aqui](https://nodejs.org/en/)
 
-Para ver o projeto online [clique aqui](https://boaspraticasteste.vercel.app/)
+To se deployed online version of the project [clique aqui](https://boaspraticasteste.vercel.app/)
