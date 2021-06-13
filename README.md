@@ -9,6 +9,6 @@ To install the dependences:
 To start dev mode:
 `npm start`
 
-To install Node.js [clique aqui](https://nodejs.org/en/)
+To install Node.js [click here](https://nodejs.org/en/)
 
-To se deployed online version of the project [clique aqui](https://boaspraticasteste.vercel.app/)
+To see the deployed version of the project [click here](https://boaspraticasteste.vercel.app/)
